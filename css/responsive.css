@@ -1,0 +1,110 @@
+@media only screen and (max-width:576px){
+    .bussiness-trend .all-post-text-list ul li{
+        font-size: 14px;
+        margin: 0;
+    }
+    .sub-comments {
+        padding: 20px 10px;
+    }
+    
+    .sub-comments .allpost-icon-sec {
+        padding: 0px 5px 0px 55px;
+    }
+    
+    .child-sub-comments {
+        padding-left: 0px;
+    }
+    
+    .sub-comments-inputs {
+        padding: 20px   10px;
+    }
+    .modal-contents-forms{
+        padding: 25px 10px;
+    }
+    .bussiness-return p{
+        font-size: 14px;
+    }
+    a.comment-click{
+        padding: 10px 0px;
+    }
+
+    .forum-banner h2{
+        font-size: 30px;
+    }
+    .business-trends a {
+        font-size: 12px;
+        padding: 11px 8px;
+    }
+    .post_btns a {
+        padding: 9px 6px;
+        font-size: 12px;
+    }
+    .all-post-content {
+        padding: 10px;
+    }
+    
+    .all-post-text-inner p,.big-post-content-icon a {
+        font-size: 12px;
+    }
+    
+    .all-post-text-list ul li {
+        font-size: 9px;
+    }
+    
+    .allpost-icon-sec {
+        padding: 6px;
+    }
+    
+    .allpost-icon-sec a {
+        font-size: 9px;
+        align-items: baseline;
+    }
+    
+    .allpost-icon-sec a span {
+        width: 12px;
+        height: 12px;
+        margin-right: 5px;
+    }
+    .sub-comments .allpost-icon-sec a span {
+        width: 20px;
+        height: 20px;
+        margin-right: 5px;
+    }
+    .sub-comments .allpost-icon-sec a {
+        font-size: 12px;
+        align-items: center;
+    }
+    
+    .allpost-icon-sec a span img {
+        width: 100%;
+    }
+
+}
+@media only screen and (max-width:767px){
+    .myTabs{
+        flex-direction: column;
+    }
+    .tabsTitle{
+        flex-direction: row;
+        align-items: center;
+        overflow-x: auto;
+        min-width: 100%;
+    }
+    a.tabButton{
+        margin: 30px 10px 0px 0px;
+    }
+    .tabsTitle h4 {
+        padding: 11px 10px 12px 0px;
+        position: absolute;
+        top: -4px;
+    }
+    
+}
+@media only screen and (max-width:500px){
+    .big-post{
+        flex-wrap: wrap;
+    }
+    .big-post-profile {
+        margin-bottom: 20px; 
+    }
+}
